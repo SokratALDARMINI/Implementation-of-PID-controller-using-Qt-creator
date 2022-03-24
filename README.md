@@ -1,4 +1,4 @@
-# Implementation-of-PID-controller-using-Qt-creator
+# Implementation-of-PID-controller-using-Qt creator
 This project is done tp simulate a second order system of the form: H(s)=b0/(s^2+a1s+a0) where the parameters of the system are unkown.
 
 The implementation is done using threading methdology for the system and the controller.
