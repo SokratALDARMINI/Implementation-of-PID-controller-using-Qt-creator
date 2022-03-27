@@ -11,3 +11,5 @@ The first phase is the system parameters identification using less sequare metho
 The second phase is conroller design and implemntation of PID controller class.
 
 Identification is done using less square error method. The controller design is done after the identification to reach a desired performance.
+
+![image](https://user-images.githubusercontent.com/95107709/160301800-5eb3baa2-2262-4de5-902e-08615cb7d456.png)
